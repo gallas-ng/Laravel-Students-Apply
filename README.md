@@ -9,3 +9,5 @@ dependances (vite.js)
 
 Pour l'interface administrateur 
 - Se connecter avec l'email : admin@admin.com et le mdp : admin123
+
+<img src="home.jpg" alt="page_home" title="Page d'acceuil">
