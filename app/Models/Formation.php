@@ -16,6 +16,6 @@ class Formation extends Model
 
 	public function candidats()
 	{
-		return $this->belongsToMany(User::class,'candidat_referentiel');
+		return $this->belongsToMany(User::class, 'candidat_referentiel');
 	}
 }
